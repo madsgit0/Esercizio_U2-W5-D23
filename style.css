@@ -1,0 +1,14 @@
+
+main{
+    margin: 10px;
+}
+
+.carousel-item{
+    display: none;
+    margin-bottom: 10px;
+}
+
+.show{
+    display: block;
+}
+
